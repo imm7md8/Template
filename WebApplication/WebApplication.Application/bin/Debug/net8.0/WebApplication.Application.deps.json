@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebApplication.Application/1.0.0": {
+        "dependencies": {
+          "WebApplication.Domain": "1.0.0",
+          "WebApplication.Shared": "1.0.0"
+        },
+        "runtime": {
+          "WebApplication.Application.dll": {}
+        }
+      },
+      "WebApplication.Domain/1.0.0": {
+        "dependencies": {
+          "WebApplication.Shared": "1.0.0"
+        },
+        "runtime": {
+          "WebApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WebApplication.Shared/1.0.0": {
+        "runtime": {
+          "WebApplication.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

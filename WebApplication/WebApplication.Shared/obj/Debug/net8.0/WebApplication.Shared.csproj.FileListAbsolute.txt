@@ -1,0 +1,11 @@
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\bin\Debug\net8.0\WebApplication.Shared.deps.json
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\bin\Debug\net8.0\WebApplication.Shared.dll
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\bin\Debug\net8.0\WebApplication.Shared.pdb
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.AssemblyInfo.cs
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.dll
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\refint\WebApplication.Shared.dll
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\WebApplication.Shared.pdb
+C:\Users\Mo\Documents\GitHub\WebApplication\WebApplication.Shared\obj\Debug\net8.0\ref\WebApplication.Shared.dll
