@@ -1,0 +1,62 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# .NET Core
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pidb
+*.svclog
+
+# Build Results
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+.idea/
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# VS Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# dotenv environment files
+*.env
+
+# Publish outputs
+wwwroot/dist/
+wwwroot/node_modules/
+dist/
+tmp/
+temp/
+*.tmp
+
+# npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# JetBrains Rider
+.i
