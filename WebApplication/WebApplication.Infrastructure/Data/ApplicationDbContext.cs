@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using WebApplication.Domain.Models;
 
 namespace WebApplication.Infrastructure.Data
@@ -14,6 +9,7 @@ namespace WebApplication.Infrastructure.Data
 		{
 		}
 		public DbSet<Note> Notes => Set<Note>();
+		public DbSet<User> Users => Set<User>();
 
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)

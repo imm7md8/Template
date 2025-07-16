@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebApplication.Domain.Models;
 using WebApplication.Infrastructure.Repos.Interfaces;
 
@@ -7,6 +8,7 @@ namespace WebApplication.App.Web.Areas.Api.Controllers
 	[Area("Api")]
 	[ApiController]
 	[Route("api/[controller]")]
+	[Authorize]
 	public class NotesController : ControllerBase
 	{
 		private readonly IRepository<Note> _repo;

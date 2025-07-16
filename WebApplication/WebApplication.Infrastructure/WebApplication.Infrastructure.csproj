@@ -24,8 +24,4 @@
     <ProjectReference Include="..\WebApplication.Shared\WebApplication.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>

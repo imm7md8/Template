@@ -14,6 +14,7 @@ namespace WebApplication.Infrastructure
 				options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
 			services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+			services.AddScoped<IUserRepository, UserRepository>();
 
 			return services;
 		}
